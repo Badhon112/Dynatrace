@@ -13,4 +13,22 @@
   - Hosts
   - DataCenter
 
-- SmartScape Topology 
+- SmartScape Topology
+
+- Anomaly Detection
+  - auto base lining
+  - Custom threshold
+- Basic KPI
+  - Host
+  - services
+  - web application
+  - kub cluster
+  - Database
+  - disk
+  - AWS
+
+- If we want to configure any kind of alert apart from Basic KPI is know as Custom event | Custom Alert.
+
+- 2 Type of anomaly Detection
+  - Global
+  - Local
