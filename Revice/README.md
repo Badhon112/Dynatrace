@@ -27,4 +27,6 @@
 - To enable the real user monitoring got to
   - setting -> Collect and capture -> User Tag classic
 
+- Rage Click
+
 ---
