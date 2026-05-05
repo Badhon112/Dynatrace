@@ -32,3 +32,4 @@
 - 2 Type of anomaly Detection
   - Global
   - Local
+
